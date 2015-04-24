@@ -16,11 +16,9 @@ Or, on more recent versions of Windows (7 & 8) it might look like:
 
 ## The Example Code Listing
 
-https://github.com/sparkfun/SparkFun_Mr_Roboto_Arduino_Library/tree/master/firmware/Examples/Mr_Roboto_LCD
-
 This listing is ordered by simplest code to the most advanced.
 
-1. [Mr&#95;Roboto&#95;LEDs](https://github.com/sparkfun/SparkFun_Mr_Roboto_Arduino_Library/tree/master/firmware/Examples/Mr_Roboto/Mr_Roboto_LEDs): Mr. Robotos red eyes will stare straight into your soul. He'll creepily wink to you. What's not to love!? 
+1. [Mr&#95;Roboto&#95;LEDs](https://github.com/sparkfun/SparkFun_Mr_Roboto_Arduino_Library/tree/master/firmware/Examples/Mr_Roboto_LEDs): Mr. Robotos red eyes will stare straight into your soul. He'll creepily wink to you. What's not to love!? 
 
 	This bit of example code will explain some basics of coding (comments, functions, variables, 
 	even for loops). And will focus on teaching you how to use digitalWrite() and analogWrite() functions. Which are the building blocks of most Arduino sketches.
