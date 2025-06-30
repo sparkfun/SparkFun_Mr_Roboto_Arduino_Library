@@ -1,7 +1,7 @@
 Mr. Roboto Kit
 ========================
 
-[![Assembled Mr. Roboto Kit](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/1/3/8/4/Mr_clone._Roboto01_clone_medium.jpg)  
+[![Assembled Mr. Roboto Kit](https://cdn.sparkfun.com/assets/parts/7/1/3/1/Mr_clone._Roboto01_clone.jpg)  
 *Mr. Roboto Kit (KIT-11257)*](https://www.sparkfun.com/products/11257)
 
 Mr. Roboto is an Arduino-compatible development board designed to be used as a teaching tool for Arduino programming. All of the surface mount components come pre-soldered so a few minutes of simple through-hole soldering is all it takes to get him up and running. After the kit is put together, the on board sensors, buzzer and LCD screen make an excellent platform for learning how to write code for physical computing.
